@@ -17,3 +17,7 @@ section {
 .hello {
     width: 50%;
 }
+
+.hello img {
+    width: 78%;
+}
