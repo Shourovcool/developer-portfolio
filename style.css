@@ -22,3 +22,12 @@ section {
 .hello img {
     width: 78%;
 }
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(250, 161, 44), rgb(255, 128, 9));
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
