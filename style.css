@@ -61,4 +61,17 @@ h2 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+
+}
+
+#full-stack {
+    border-left: 10px solid tomato;
+}
+
+#babyweb {
+    border-left: 10px solid rgb(35, 116, 192);
+}
+
+footer p {
+    text-align: center;
 }
